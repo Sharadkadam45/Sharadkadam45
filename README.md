@@ -18,104 +18,32 @@
 
 ---
 
-### 🛠 Skills
+### 🛠 Technical Skills
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 30px 0;">
+<div align="center" style="margin: 40px 0;">
 
 #### Programming Languages
-<div style="background: #f8f9fa; padding: 20px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
-  <ul style="list-style-type: none; padding: 0; margin: 0; display: grid; gap: 12px;">
-    <li style="display: flex; align-items: center; gap: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="24" height="24"/>
-      <div style="flex-grow: 1;">
-        <div style="display: flex; justify-content: space-between;">
-          <span>C++</span>
-          <span style="color: #00599C; font-weight: 500;">90%</span>
-        </div>
-        <div style="background: #e9ecef; height: 6px; border-radius: 3px; margin-top: 4px;">
-          <div style="background: #00599C; width: 90%; height: 100%; border-radius: 3px;"></div>
-        </div>
-      </div>
-    </li>
-    <li style="display: flex; align-items: center; gap: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24" height="24"/>
-      <div style="flex-grow: 1;">
-        <div style="display: flex; justify-content: space-between;">
-          <span>JavaScript</span>
-          <span style="color: #F7DF1E; font-weight: 500;">85%</span>
-        </div>
-        <div style="background: #e9ecef; height: 6px; border-radius: 3px; margin-top: 4px;">
-          <div style="background: #F7DF1E; width: 85%; height: 100%; border-radius: 3px;"></div>
-        </div>
-      </div>
-    </li>
-    <li style="display: flex; align-items: center; gap: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" height="24"/>
-      <div style="flex-grow: 1;">
-        <div style="display: flex; justify-content: space-between;">
-          <span>Python</span>
-          <span style="color: #3776AB; font-weight: 500;">80%</span>
-        </div>
-        <div style="background: #e9ecef; height: 6px; border-radius: 3px; margin-top: 4px;">
-          <div style="background: #3776AB; width: 80%; height: 100%; border-radius: 3px;"></div>
-        </div>
-      </div>
-    </li>
-    <li style="display: flex; align-items: center; gap: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="24" height="24"/>
-      <div style="flex-grow: 1;">
-        <div style="display: flex; justify-content: space-between;">
-          <span>SQL</span>
-          <span style="color: #4479A1; font-weight: 500;">75%</span>
-        </div>
-        <div style="background: #e9ecef; height: 6px; border-radius: 3px; margin-top: 4px;">
-          <div style="background: #4479A1; width: 75%; height: 100%; border-radius: 3px;"></div>
-        </div>
-      </div>
-    </li>
-  </ul>
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 30px; margin: 30px 0;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60"/>
 </div>
 
-#### Web Technologies
-<div style="background: #f8f9fa; padding: 20px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
-  <ul style="list-style-type: none; padding: 0; margin: 0; display: grid; gap: 12px;">
-    <li style="display: flex; align-items: center; gap: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24" height="24"/>
-      <div style="flex-grow: 1;">
-        <div style="display: flex; justify-content: space-between;">
-          <span>React.js</span>
-          <span style="color: #61DAFB; font-weight: 500;">85%</span>
-        </div>
-        <div style="background: #e9ecef; height: 6px; border-radius: 3px; margin-top: 4px;">
-          <div style="background: #61DAFB; width: 85%; height: 100%; border-radius: 3px;"></div>
-        </div>
-      </div>
-    </li>
-    <li style="display: flex; align-items: center; gap: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="24" height="24"/>
-      <div style="flex-grow: 1;">
-        <div style="display: flex; justify-content: space-between;">
-          <span>Node.js</span>
-          <span style="color: #339933; font-weight: 500;">80%</span>
-        </div>
-        <div style="background: #e9ecef; height: 6px; border-radius: 3px; margin-top: 4px;">
-          <div style="background: #339933; width: 80%; height: 100%; border-radius: 3px;"></div>
-        </div>
-      </div>
-    </li>
-    <li style="display: flex; align-items: center; gap: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="24" height="24"/>
-      <div style="flex-grow: 1;">
-        <div style="display: flex; justify-content: space-between;">
-          <span>Express.js</span>
-          <span style="color: #000000; font-weight: 500;">75%</span>
-        </div>
-        <div style="background: #e9ecef; height: 6px; border-radius: 3px; margin-top: 4px;">
-          <div style="background: #000000; width: 75%; height: 100%; border-radius: 3px;"></div>
-        </div>
-      </div>
-    </li>
-  </ul>
+#### Frontend Development
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 30px; margin: 30px 0;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60"/>
+</div>
+
+#### Backend Development
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 30px; margin: 30px 0;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60"/>
 </div>
 
 </div>
