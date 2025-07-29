@@ -65,9 +65,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Sharadkadam45/Sharadkadam45/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100%"/>
 </p>
+
