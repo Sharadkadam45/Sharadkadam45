@@ -1,8 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Sharad+Kadam;Full+Stack+Developer;MERN+Enthusiast;DSA+Solver" alt="Typing SVG" />
+  Hi 👋, I'm Sharad Kadam<br/>
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&height=40&lines=Full+Stack+Developer;MERN+Enthusiast;DSA+Solver" alt="Typing roles" />
 </h1>
 
-<h3 align="center">A passionate developer building robust web applications</h3>
+<h3 align="center">You must be a BST node, because when I look at you, my search time becomes O(log n). </h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/kadam-sharad-1400a7259" target="blank">
